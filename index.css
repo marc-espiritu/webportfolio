@@ -1,0 +1,78 @@
+#navbar {
+	background: #040752 !important;
+}
+nav a {
+	font-family: Montserrat;
+	color: #ffffff !important;
+}
+
+#landing {
+	background: #00fbff;
+}
+
+#landing h1, h5{
+	font-family: Montserrat;
+	color: #040752 !important;
+}
+
+#myself {
+	width: 300px;
+  	height: 355px;
+}
+
+#projects h3{
+	font-family: Montserrat;
+
+}
+
+
+#project1  {
+	background-color: #040752;
+	color: #ffffff !important;
+
+}
+#project2  {
+	background: #00fbff;
+	font-family: Montserrat;
+	color: #040752 !important;
+
+}
+#project3  {
+	background-color: #040752;
+	color: #ffffff !important;
+
+}
+
+#tools1  {
+	color: #040752 !important;
+
+}
+#tools2  {
+	color: #040752 !important;
+
+}
+#tools3  {
+	color: #040752 !important;
+
+}
+
+#tools1 img {
+	height: 50px;
+	width: 50px;
+
+}
+#tools2 img {
+	height: 50px;
+	width: 50px;
+
+}
+#tools3 img {
+	height: 50px;
+	width: 50px;
+
+}
+
+#contact {
+	background-color: #040752;
+	color: white;
+}
